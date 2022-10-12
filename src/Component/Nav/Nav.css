@@ -1,0 +1,37 @@
+nav{
+    background-color:white !important;
+    width: 100%;
+    max-width: 100%;
+    height : auto;
+    overflow: hidden;
+    border-radius:0px;
+}
+.active{
+    background-color: white !important;
+   
+}
+.linkactive{
+    color: black !important;
+}
+nav .navbar-brand{
+    color:black!important;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight:bold;
+    margin:0px 40px;
+}
+nav a.nav-link{
+     color:black!important;
+     font-size:15px; 
+     letter-spacing:2px;
+     margin: 10px 65px;
+    
+}
+
+nav a.nav-link:hover{
+    color:#00B2B8 !important;
+}
+
+.navbar-toggle {
+    color:black !important;
+}
